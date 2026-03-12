@@ -3,8 +3,7 @@
 ### Overview
 - Challenge App is a simple REST API built with Spring Boot that allows users to manage monthly challenges.
 - The application supports basic CRUD operations (Create, Read, Update, Delete) using REST endpoints.
-
-Currently, the application stores data in memory using a Java List, making it a beginner-friendly backend project for learning Spring Boot.
+- Currently, the application stores data in memory using a Java List, making it a beginner-friendly backend project for learning Spring Boot.
 ---
 ### Features
  - Create a new challenge
